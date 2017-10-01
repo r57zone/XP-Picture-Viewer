@@ -1,7 +1,7 @@
 # XP Picture Viewer for Windows 7 (Ru)
 Просмотрщик изображений и факсов из XP для Windows 7.
 
-![](https://user-images.githubusercontent.com/9499881/31055308-f1826b28-a6d1-11e7-9008-5ae53d4e9e21.PNG)
+![](https://user-images.githubusercontent.com/9499881/31055418-8a585596-a6d3-11e7-8137-6e921647bf5d.PNG)
 
 ## Настройка
 1. Распакуйте файл "Viewer.exe", например, в папку "C:\Program Files\XP Photo Viewer".
