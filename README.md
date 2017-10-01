@@ -1,7 +1,7 @@
 # XP Picture Viewer for Windows 7 (Ru)
 Просмотрщик изображений и факсов из XP для Windows 7. Просмотрщик поддерживает воспроизведение gif анимации.
 
-![](https://user-images.githubusercontent.com/9499881/31055418-8a585596-a6d3-11e7-8137-6e921647bf5d.PNG)
+![](https://user-images.githubusercontent.com/9499881/31055511-f5631c62-a6d4-11e7-8b35-42032642fa7e.gif)
 
 ## Настройка
 1. Распакуйте файл "Viewer.exe", например, в папку "C:\Program Files\XP Photo Viewer".
