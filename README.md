@@ -12,7 +12,7 @@
 **[Загрузить](https://github.com/r57zone/XP-picture-viewer-for-7/releases)**
 
 # XP Picture Viewer for Windows 7 (En)
-Windows Picture and Fax viewer from XP for Windows 7. Viewer supports gif animation playback.
+Windows Picture and Fax viewer from XP for Windows 7. Viewer support gif animation playback.
 
 ## Setup
 1. Extract file "Viewer.exe", for example to folder "C:\Program Files\XP Photo Viewer".
